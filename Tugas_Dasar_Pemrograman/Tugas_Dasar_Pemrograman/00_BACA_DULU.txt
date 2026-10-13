@@ -1,0 +1,15 @@
+TUGAS DASAR PEMROGRAMAN (Python)
+
+Struktur folder:
+01_Pelajaran_2        Materi 2: print, input, komentar, flowchart, variabel, tipe data, biodata
+    Dokumen/          file Word untuk dicetak + draf 10 resep (disalin tulis tangan, jangan dicetak)
+    Kode/             satu folder per tugas (file .py)
+02_Pelajaran_3        Materi 3: input-output, luas persegi panjang, login Gmail, volume kubus, luas segitiga
+    Dokumen/          file Word untuk dicetak
+    Animasi/          animasi_flowchart.html (buka di browser, tidak untuk dicetak)
+    Kode/             satu folder per tugas
+03_Latihan_Mandiri_A  6 soal (Celsius-Fahrenheit, rata-rata, diskon, pseudocode, case-sensitive, lingkaran)
+04_Latihan_Mandiri_B  5 soal (menit-jam, total harga ribuan, 10 vs 10 teks, int(input), nama variabel salah)
+
+Sebelum mencetak: isi NIM, Nama, dan Kode Kelas di halaman depan setiap file Word.
+Menjalankan kode: buka file .py di VS Code lalu klik tombol segitiga (Run).
